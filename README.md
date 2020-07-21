@@ -9,6 +9,8 @@
 4. 深度解析 new 原理及模拟实现
 ## 事件机制（Event loop）
 ## Promise原理
+1.剖析promise原理
+2.写一个简易版promise
 ## Async/Await原理
 ## webpack配置
 1. entry和module
@@ -19,14 +21,17 @@
 
 ## webpack原理
 ## VirtualDom原理
-
+1. VirtualDom原理
+2. 写一个建简版虚拟dom算法（muVirtualDom），模拟虚拟dom的解析过程。了解虚拟dom的整体过程。
 ## vue响应式原理
 已完成
 ## template模板是怎么通过compile编译的
-
 ## 数据状态更新时差异diff及patch机制
 ## MVVM双向绑定
 ## Vuex原理
+## muVue（基于vue2.0，做一个简易版vue框架）
+模仿vue的解析过程，实现mvvn架构。根据Object.defineProperty模拟包括observer双向绑定，compile解析，watch监听
+
 ## Redux原理
 ## 路由原理
 ## VueRouter 路由解析
