@@ -26,7 +26,7 @@
 ## 小型 JavaScript 打包器
 https://github.com/alisazou/blog/issues/15
 ## vue响应式原理
-已完成
+https://github.com/alisazou/blog/issues/7
 ## template模板是怎么通过compile编译的
 ## 数据状态更新时差异diff及patch机制
 ## MVVM双向绑定
