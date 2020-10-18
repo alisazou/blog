@@ -2,9 +2,12 @@
 ## 作用域闭包
 1. 深入浅出图解作用域链和闭包
 1. JavaScript深入之从作用域链理解闭包
+https://github.com/alisazou/blog/issues/1
 ## this 全面解析
 1. JavaScript深入之重新认识箭头函数的this
+https://github.com/alisazou/blog/issues/2
 2. 深度广度解析 call 和 apply 原理、使用场景及实现
+https://github.com/alisazou/blog/issues/12
 3. 深度解析bind原理、使用场景及模拟实现
 4. 深度解析 new 原理及模拟实现
 ## 事件机制（Event loop）
@@ -47,7 +50,6 @@ https://github.com/alisazou/blog/issues/7
 1. 发布-订阅模式
 1. 外观模式
 ## 浏览器缓存机制介绍与缓存策略剖析
-已完成50%
+https://github.com/alisazou/blog/issues/10
 ## 浏览器渲染原理
-已完成
-
+https://github.com/alisazou/blog/issues/3
