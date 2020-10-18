@@ -24,7 +24,7 @@
 1. VirtualDom原理
 2. 写一个建简版虚拟dom算法（muVirtualDom），模拟虚拟dom的解析过程。了解虚拟dom的整体过程。
 ## 小型 JavaScript 打包器
-https://github.com/sisterAn/minipack
+https://github.com/alisazou/blog/issues/15
 ## vue响应式原理
 已完成
 ## template模板是怎么通过compile编译的
