@@ -32,6 +32,7 @@ https://github.com/alisazou/blog/issues/15
 https://github.com/alisazou/blog/issues/7
 ## template模板是怎么通过compile编译的
 ## 数据状态更新时差异diff及patch机制
+https://github.com/alisazou/blog/issues/16
 ## MVVM双向绑定
 ## Vuex原理
 ## muVue（基于vue2.0，做一个简易版vue框架）（https://github.com/zhuangweizhan/codeShare）
