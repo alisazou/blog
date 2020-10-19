@@ -35,14 +35,14 @@ https://github.com/alisazou/blog/issues/7
 https://github.com/alisazou/blog/issues/16
 ## MVVM双向绑定
 ## Vuex原理
-## muVue（基于vue2.0，做一个简易版vue框架）（https://github.com/zhuangweizhan/codeShare）
+## muVue（基于vue2.0，做一个简易版vue框架）
 模仿vue的解析过程，实现mvvn架构。根据Object.defineProperty模拟包括observer双向绑定，compile解析，watch监听
 
 ## Redux原理
 ## 路由原理
 ## VueRouter 路由解析
 ## ReactRouter 前端路由解析
-## 设计模式的艺术（https://juejin.im/post/5e8fde02f265da47e22f1cbb）
+## 设计模式的艺术
 1. 工厂模式
 1. 单例模式
 1. 适配器模式
