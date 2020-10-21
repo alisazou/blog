@@ -42,6 +42,8 @@ https://github.com/alisazou/blog/issues/16
 ## 路由原理
 ## VueRouter 路由解析
 ## ReactRouter 前端路由解析
+
+## 深入 setState 机制
 ## 设计模式的艺术
 1. 工厂模式
 1. 单例模式
@@ -54,3 +56,4 @@ https://github.com/alisazou/blog/issues/16
 https://github.com/alisazou/blog/issues/10
 ## 浏览器渲染原理
 https://github.com/alisazou/blog/issues/3
+
